@@ -1,6 +1,6 @@
 #  2D Platformer With Unity 
 
-![Gameplay](gameplay.gif)
+![GamePlay](GamePlay.gif)
 
 A 2D platformer game created as a partial recreation of the classic **Nokia Bounce Tales** mobile game.
 
