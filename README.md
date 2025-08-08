@@ -8,7 +8,7 @@ A 2D platformer game created as a partial recreation of the classic **Nokia Boun
 - **Move Right:** `→`
 - **Jump:** `Space`
 
-If you want to explore or modify the project:
+To explore or modify the project:
 1. Clone the repository
 2. Open Unity Hub, click Open, and select the cloned folder.
 3. Open the project using a compatible version of Unity(recommended: Unity 2020.3.48f1 or later).
